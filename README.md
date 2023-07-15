@@ -1,6 +1,6 @@
 - Hi, I’m @HEee6991
 - Hope to learn to code here
-- A
+- New tech
 
 <!---
 HEee6991/HEee6991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
