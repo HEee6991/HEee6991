@@ -1,5 +1,5 @@
 - Hi, I’m @HEee6991 .
-- Hope to learn to code here
+- Hope to learn to code here .
 - New tech
 - new
 
